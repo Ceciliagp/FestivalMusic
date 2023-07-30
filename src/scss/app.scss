@@ -1,0 +1,9 @@
+/**$rojo: red;
+
+body{
+    background-color: $rojo;
+}*/
+
+//CADA VEZ QUE SE CREE UNA CARPETA, PARA QUE SE AGREGUE A LA 
+@use 'base';
+@use 'layout';

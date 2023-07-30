@@ -1,0 +1,18 @@
+@use 'base/variables' as v;
+
+.site-footer{
+
+    background-color: v.$gris;
+    padding: 1rem;
+    margin-top: 1rem;
+
+    p{
+
+        margin: 0;
+        text-align: center;
+        color: v.$blanco;
+        font-size: 1.2rem;
+        font-weight: bold;
+       
+    }
+}
